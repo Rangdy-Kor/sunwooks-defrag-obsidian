@@ -10,11 +10,12 @@ publish: true
 
 ---
 
-| **프로필**   | **Minecraft: NEO Edition**                                                                                                                               |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **개발 언어** | C++ (물리 연산 / 렌더링 엔진)<br>C# (인게임 콘텐츠 / 상위 차원 로직)                                                                                                          |
-| **플랫폼**   | Microsoft Windows | Xbox One | Xbox Series X|S<br>macOS | iOS | iPadOS<br>Linux | Android<br>Nintendo Switch | Nintendo Switch 2<br>PlayStation 5 |
-| **장르**    | 오픈 월드 | 샌드박스 | 서바이벌                                                                                                                                    |
+| **프로필**    | **Minecraft: NEO Edition**                                                                                                                               |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **개발 언어**  | C++ (물리 연산 / 렌더링 엔진)<br>C# (인게임 콘텐츠 / 상위 차원 로직)                                                                                                          |
+| **플랫폼 언어** | C# (데스크탑 전용)<br>TypeScript (데스크탑 및 모바일)                                                                                                                  |
+| **플랫폼**    | Microsoft Windows | Xbox One | Xbox Series X|S<br>macOS | iPadOS | iOS<br>Linux | Android<br>Nintendo Switch | Nintendo Switch 2<br>PlayStation 5 |
+| **장르**     | 오픈 월드 | 샌드박스 | 서바이벌                                                                                                                                    |
 
 > [!IMPORTANT] IMPORTANT<br>실제 구현 계획은 현재까지 존재하지 않으며, 개인적 취미 활동 및 설계 연습 목적으로 작성되었습니다.
 
@@ -22,7 +23,7 @@ publish: true
 
 ---
 
-Minecraft: NEO Edition은 이분화된 마인크래프트의 생태계를 단일 생태계로 통합하며, 현대 시스템 공학의 정수를 Minecraft에 주입하겠다는 목적으로 설계된 가상의 Minecraft 신규 에디션 설계서이다.
+Minecraft: NEO Edition은 이분화된 Minecraft의 생태계를 단일 생태계로 통합하며, 현대 시스템 공학의 정수를 Minecraft에 이식하겠다는 목적으로 설계된 가상의 Minecraft 신규 에디션 설계서이다.
 
 ## 시스템
 
@@ -32,7 +33,7 @@ Minecraft: NEO Edition은 이분화된 마인크래프트의 생태계를 단일
 
 ---
 
-Minecraft: NEO Edition은 Bedrock Edition에서 사용한 자체 복셀 게임 엔진인 RenderDragon을 사용한다. Unity, Unreal 등 표준 사용 엔진은 폴리곤 기반 게임 엔진으로서 블록 (복셀) 기반 게임인 마인크래프트에는 적합하지 않았다.
+Minecraft: NEO Edition은 Bedrock Edition에서 사용한 자체 복셀 게임 엔진인 RenderDragon을 사용한다. Unity, Unreal 등 표준 사용 엔진은 폴리곤 기반 게임 엔진으로서 블록 (복셀) 기반 게임인 Minecraft에는 적합하지 않았다.
 
 그래픽 렌더링, 물리 엔진 등 게임의 실행 속도를 결정하는 곳에는 Bedrock Edition과 같이 C++을 사용한다. C++은 Java와 달리 런타임이 없으면서도, 가비지 컬렉션 없이 메모리를 직접 조작할 수 있어 실행 속도와 최적화 측면에서 더 유리하기 때문이다.
 
