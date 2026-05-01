@@ -8,6 +8,7 @@ publish: true
 
 | 페이지                                     | 부모 노트                   | 생성일                 | 수정일                 |
 | --------------------------------------- | ----------------------- | ------------------- | ------------------- |
+| [[Maxdown.md\|Maxdown]]                 | [[Sandbox.md\|Sandbox]] | 2026-04-30 21:29:18 | 2026-05-01 17:08:12 |
 | [[Jade.md\|Jade]]                       | [[Sandbox.md\|Sandbox]] | 2026-05-01 14:33:15 | 2026-05-01 16:53:56 |
 | [[Project Legacy.md\|Project Legacy]]   | [[Sandbox.md\|Sandbox]] | 2026-04-30 21:31:46 | 2026-05-01 13:33:47 |
 | [[True Life Craft.md\|True Life Craft]] | [[Sandbox.md\|Sandbox]] | 2026-04-30 21:30:22 | 2026-04-30 21:30:22 |
