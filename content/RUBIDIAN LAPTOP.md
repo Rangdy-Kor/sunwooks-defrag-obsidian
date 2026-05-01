@@ -190,7 +190,7 @@ publish: true
 |    **이미지 뷰어**     |      BandiView       |         BandiView Pro          |   Winget    |                            -                             |
 |   **미디어 플레이어**    |   PotPlayer Global   |               -                |   Winget    |                            -                             |
 |      **번역기**      |  DeepL Translation   | DeepL Translation Pro Ultimate |   Winget    |                            -                             |
-|    **문장 교정기**     |     DeepL Write      |    DeepL Write Pro Ultimate    |   Winget    |                            -                             |
+|    **문장 교정기**     |     DeepL Write      |    DeepL Write Pro Ultimate    |   Module    |                       DeepL 부가 기능                        |
 |    **문법 검사기**     |      Grammarly       |         Grammarly Pro          |    Scoop    |                            -                             |
 |                   | 바른한글 (구 부산대 맞춤법 검사기) |               -                | Vivaldi PWA |                            -                             |
 
@@ -206,4 +206,3 @@ publish: true
 |               |     Slack      |        Slack Pro        |    Scoop    |                                                                -                                                                 |
 | **화상 통화 서비스** | Zoom Workplace | Zoom Workplace Business |    Scoop    |                                                                -                                                                 |
 |               |  Google Meet   |     Google AI Ultra     | Vivaldi PWA |                                                                -                                                                 |
-|    **메시지**    | Google Message |     Google AI Ultra     | Vivaldi PWA |                                                                -                                                                 |
