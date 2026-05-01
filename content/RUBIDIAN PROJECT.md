@@ -13,10 +13,10 @@ publish: true
 
 ---
 
-| PROJECT             | RUBIDIAN                                           |
-| :------------------ | :------------------------------------------------- |
-| **DESIGN LANGUAGE** | Main Color: Jet Black<br>Point Color: Pigeon Blodd |
-| **CORE PHILOSOPHY** | Centralized High-End Ecosystem                     |
+| PROJECT             | RUBIDIAN                                                  |
+| :------------------ | :-------------------------------------------------------- |
+| **DESIGN LANGUAGE** | **Main Color**:Jet Black<br>**Point Color**: Pigeon Blodd |
+| **CORE PHILOSOPHY** | Centralized High-End Ecosystem                            |
 
 ## 개요
 
